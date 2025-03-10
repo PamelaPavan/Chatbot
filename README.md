@@ -1,4 +1,4 @@
-<h1 align="center">Bot para auxiliar pessoas com deficiência visual </h1>
+<h1 align="center">Bot para Auxiliar Pessoas Cegas ou Com Baixa Visão</h1>
 <h2 align="center"> <i>Aurion</i></h2>
 
 
